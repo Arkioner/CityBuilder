@@ -1,0 +1,11 @@
+{
+    "name": "Infrastructure",
+    "references": [
+        "Application",
+        "Domain"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

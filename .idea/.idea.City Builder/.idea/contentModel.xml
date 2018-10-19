@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Arkioner\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Arkioner\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_City Builder.-136057993.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Arkioner\Documents\UProjects\City Builder" t="IncludeRecursive">
+      <e p="Application.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CityBuilder" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Application" t="Include">
+              <e p="Application.asmdef" t="Include" />
+              <e p="BuildUseCase.cs" t="Include" />
+            </e>
+            <e p="BuildHandler.cs" t="Include" />
+            <e p="Building.cs" t="Include" />
+            <e p="CameraController.cs" t="Include" />
+            <e p="City.cs" t="Include" />
+            <e p="Domain" t="Include">
+              <e p="Building.cs" t="Include" />
+              <e p="Coordinates.cs" t="Include" />
+              <e p="Domain.asmdef" t="Include" />
+            </e>
+            <e p="Infrastructure" t="Include">
+              <e p="DependencyContainer.cs" t="Include" />
+              <e p="Infrastructure.asmdef" t="Include" />
+              <e p="Tests" t="Include">
+                <e p="DependencyContainerTest.cs" t="Include" />
+                <e p="Tests.asmdef" t="Include" />
+              </e>
+              <e p="UnityBuilding.cs" t="Include" />
+              <e p="UnityController.cs" t="Include" />
+            </e>
+            <e p="UIController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="City Builder.sln" t="IncludeFlat" />
+      <e p="Domain.csproj" t="IncludeRecursive" />
+      <e p="Infrastructure.csproj" t="IncludeRecursive" />
+      <e p="InfrastructureTests.csproj" t="IncludeRecursive" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
