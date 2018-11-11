@@ -12,6 +12,7 @@
             <e p="Application" t="Include">
               <e p="Application.asmdef" t="Include" />
               <e p="BuildUseCase.cs" t="Include" />
+              <e p="CityInfo.cs" t="Include" />
             </e>
             <e p="BuildHandler.cs" t="Include" />
             <e p="Building.cs" t="Include" />
@@ -19,12 +20,16 @@
             <e p="City.cs" t="Include" />
             <e p="Domain" t="Include">
               <e p="Building.cs" t="Include" />
+              <e p="BuildingType.cs" t="Include" />
+              <e p="City.cs" t="Include" />
+              <e p="CityRepository.cs" t="Include" />
               <e p="Coordinates.cs" t="Include" />
               <e p="Domain.asmdef" t="Include" />
             </e>
             <e p="Infrastructure" t="Include">
               <e p="DependencyContainer.cs" t="Include" />
               <e p="Infrastructure.asmdef" t="Include" />
+              <e p="InMemoryCityRepository.cs" t="Include" />
               <e p="Tests" t="Include">
                 <e p="DependencyContainerTest.cs" t="Include" />
                 <e p="Tests.asmdef" t="Include" />

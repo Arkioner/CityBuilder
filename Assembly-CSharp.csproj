@@ -324,13 +324,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Infrastructure.csproj">
-      <Project>{F38BF589-87A8-19ED-B457-49E5B3CEE6B0}</Project>
-      <Name>Infrastructure</Name>
-    </ProjectReference>
     <ProjectReference Include="Domain.csproj">
       <Project>{88AA5130-C29A-6A3E-9467-6DC624ACC345}</Project>
       <Name>Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="Infrastructure.csproj">
+      <Project>{F38BF589-87A8-19ED-B457-49E5B3CEE6B0}</Project>
+      <Name>Infrastructure</Name>
     </ProjectReference>
     <ProjectReference Include="Application.csproj">
       <Project>{DE21663F-B1E3-9C16-DA69-A7C6F05CE3A6}</Project>

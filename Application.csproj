@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CityBuilder\Scripts\Application\BuildUseCase.cs" />
+    <Compile Include="Assets\CityBuilder\Scripts\Application\CityInfo.cs" />
     <None Include="Assets\CityBuilder\Scripts\Application\Application.asmdef" />
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

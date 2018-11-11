@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/InitTestScene636755076501342559.unity
-  isLoaded: 0
-  isActive: 0
+- path: Assets/CityBuilder/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1

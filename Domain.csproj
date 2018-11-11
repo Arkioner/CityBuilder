@@ -58,6 +58,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CityBuilder\Scripts\Domain\Building.cs" />
+    <Compile Include="Assets\CityBuilder\Scripts\Domain\BuildingType.cs" />
+    <Compile Include="Assets\CityBuilder\Scripts\Domain\City.cs" />
+    <Compile Include="Assets\CityBuilder\Scripts\Domain\CityRepository.cs" />
     <Compile Include="Assets\CityBuilder\Scripts\Domain\Coordinates.cs" />
     <None Include="Assets\CityBuilder\Scripts\Domain\Domain.asmdef" />
     <Reference Include="UnityEngine.AIModule">

@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CityBuilder\Scripts\Infrastructure\DependencyContainer.cs" />
+    <Compile Include="Assets\CityBuilder\Scripts\Infrastructure\InMemoryCityRepository.cs" />
     <Compile Include="Assets\CityBuilder\Scripts\Infrastructure\UnityBuilding.cs" />
     <Compile Include="Assets\CityBuilder\Scripts\Infrastructure\UnityController.cs" />
     <None Include="Assets\CityBuilder\Scripts\Infrastructure\Infrastructure.asmdef" />
